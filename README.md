@@ -17,3 +17,5 @@
 [SSH隧道技术----端口转发，socket代理](https://www.cnblogs.com/fbwfbi/p/3702896.html)
 
 [开源许可证教程](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
+
+[VIM中使用正则匹配中文](https://my.oschina.net/hotleave/blog/341500)
