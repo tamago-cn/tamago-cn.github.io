@@ -19,3 +19,5 @@
 [开源许可证教程](http://www.ruanyifeng.com/blog/2017/10/open-source-license-tutorial.html)
 
 [VIM中使用正则匹配中文](https://my.oschina.net/hotleave/blog/341500)
+
+[Linux sed 命令](http://man.linuxde.net/sed)
