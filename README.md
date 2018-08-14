@@ -21,3 +21,5 @@
 [VIM中使用正则匹配中文](https://my.oschina.net/hotleave/blog/341500)
 
 [Linux sed 命令](http://man.linuxde.net/sed)
+
+[go generate 生成代码](https://www.cnblogs.com/majianguo/p/6653919.html)
