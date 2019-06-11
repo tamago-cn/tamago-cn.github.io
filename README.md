@@ -23,3 +23,5 @@
 [Linux sed 命令](http://man.linuxde.net/sed)
 
 [go generate 生成代码](https://www.cnblogs.com/majianguo/p/6653919.html)
+
+[Prometheus 查询语言](https://www.jianshu.com/p/3bdc4cfa08da)
